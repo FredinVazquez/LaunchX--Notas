@@ -27,7 +27,7 @@ La representación gráfica de ese cliente ideal es por medio de un buyer person
   
   Las diferencia es que se profundiza más sobre el cómo es la persona en un buyer persona, se conoce más a esa persona.
   
- ## ** Tipos de Buyer persona**
+ ## **Tipos de Buyer persona**
  * Decisor:
    Este hace referencia a la persona que va y compra nuestro servicio.
  
