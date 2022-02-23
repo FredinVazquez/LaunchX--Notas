@@ -114,6 +114,14 @@ La forma de delimitar esto sería por medio de la edad, nivel social, escolarida
 <a href="https://trends.google.es/trends/?geo=MX" target="blank">GoogleTrends</a> es funcional para identficar lo que está en trending con respecto a un tema, entonces es posible usar esto para buscar un tema y ver que es lo que se busca más acerca de una palabra clave, por ejemplo al buscar _agenda_ es posible ver que se busca sobre agenda 2022 haciendo referencia que las personas que buscan agendar su vida personal probablemente busque una para el año 2022.
 
 ### **Segmentación psicográfica**
+Esto se entiende como la división de la población, del mercado, según sus actitudes aspiraciones y criterios psicológicos, preferencias, estilos de vida valores. O sea, va dirigido a la cuestión psicológica pero enfocado en el estilo de vida y su personalidad debido a que según sus creencias, valores, aficiones, entre otros, es posible ver ciertos comportamientos. Por ejemplo, si se fabrica una crema, o un derivado, para reparación de tejidos de la piel y se quiere introducir esa idea a pueblos será un poco difícil debido a que por sus creencias o valores tienden a confiar más sobre remedios naturales que artificiales o creados por compañias.
+
+De este modo es posible ver que incorporar el producto en esa área no sería para nada beneficioso, o tal vez atacar esa área usando otro producto, etc.
+
+También algo importante será que con estos rasgos psicográficos condicionan en la compra de un producto, esto es debido a que encuentran una forma de expresarse al comprar un producto. Por ejemplo, es común ver a gente introvertida vestir de colores más oscuros u opacos, más formal en ocasiones, mientras que los extrovertidos es común verlos con colores más intensos, etc. Lo cual puede generar que nuestro público esté más compuesto por personas introvertidas que extrovertidas y de este modo saber qué colores o palabras usar, etc.
+
+### **Ejemplo**
+Supongamos que se ha creado una aplicación para fondos de pantalla y al estar definiendo nuestro buyer persona y público objetivo observamos que la mayoría de personas que buscan fondos de pantalla personalizados son introvertidos y prefieren temas como el anime u oscuros, mientras que los extrovertidos son más de buscar cualquier imagen random de internet, por lo cual nuestra solución será porporcionar fondos de pantalla y por ende se tendrá que tener ya sea una sección para cada tipo de personas o enfocarse en alguna. Esto es lo que ocurre actualmente, si uno busca fondos de pantalla en una tienda de aplicaciones en probable ver variaciones o si buscamos algo más específico es posible ver como algunas aplicaciones fueron más enfocadas a reunir fondos de pantalla con temática oscura logrando atraer más personas jóvenes y tener una comunidad más activa, etc.
 
 
 ## **Viendo el ejemplo de Abogabot**
@@ -121,4 +129,4 @@ La forma de delimitar esto sería por medio de la edad, nivel social, escolarida
 
 ## **Fuentes de referencia**
 1. https://blog.hotmart.com/es/publico-objetivo/
-2. 
+2. https://www.emprendepyme.net/que-es-la-segmentacion-psicografica.html
