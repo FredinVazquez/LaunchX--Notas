@@ -130,3 +130,4 @@ Supongamos que se ha creado una aplicación para fondos de pantalla y al estar d
 ## **Fuentes de referencia**
 1. https://blog.hotmart.com/es/publico-objetivo/
 2. https://www.emprendepyme.net/que-es-la-segmentacion-psicografica.html
+3. https://smallbusiness.chron.com/target-market-identification-10304.html
