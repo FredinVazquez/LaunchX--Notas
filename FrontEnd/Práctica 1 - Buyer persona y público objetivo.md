@@ -1,6 +1,6 @@
 # Práctica 1
 
-## **Buyer persona**
+# **Buyer persona**
 Un buyer persona sería nuestro cliente ideal, aquel cliente de perfecto para que adquiera de nuestros servicios. Este será un persona imaginario creado con base en el cliente ideal de nuestro producto. 
 
 La formulación de este personaje será con base a sus datos sociales y demográficos, así como sus actividades personales, de sus principales problemas y sus objetivos a querer alcanzar.
@@ -67,3 +67,36 @@ Al momento de que se dé cuenta que tiene un problema el cliente va a proceder a
 Es por esto mismo que será necesario identificar en qué parte del buyer persona se está.
 
 La forma de realizar validaciones de esto es por medio de formularios, esto es para concocer directamemnte la opinión de los clientes. 
+
+
+
+# **Público objetivo**
+Este será la base para poder dirigir lo que es el negocio en sí, será el grupo de personas a quienes les va interesar consumir el servicio que se le está brindando, en este caso la aplicación web. Esto yo lo veo más como una extensión o una generalización de los que es el buyer persona, debido a que aquí ya estaremos abarcando a necesidades de personas de forma más general debido a que esto nos ayudará para saber en qué grupo enfocarnos para obtener mayor consumo de nuestro servicio, no será lo mismo anunciar un medicamento para niños que para personas de la tercera edad. 
+
+De forma general es posible ver que la elección del público objetivo se encuentra basado en características sociodemográficas donde es posible ver algunas principales:
+
+* País de residencia
+* Nivel económico
+* Status social
+* Nivel de educación
+
+Al conocer el público será más fácil saber a quién llegar para poder extender el negocio, dónde llegar a ellos y cómo hacer que noten nuestra existencia.
+
+### **Diferencias entre Buyer persona**
+La principal diferencia es la cantidad de datos que se conoce, puesto que en el Buyer persona se maneja literalmente al cliente de sueño, uno que sea el más ideal. Entonces será posible saber desde gustos hasta deseos, todo aquello lo atormenta y esto con la finalidad de poder realizarnos la pregunta al momento de lanzar la aplicación web:
+
+* ¿Le será intuitiva el uso de la aplicación?
+* ¿Resolverá el problema de forma completa la aplicación?
+* ¿Nos va notar fulanito que nuestra aplicación es ideal para él?
+
+Mientras que el público general ya vas más enfocado a la segmentación de la población, ya no se conoce los datos a tan detalle sino que tan solo se conocen las características a nivel más amplio, de forma más general ese grupo de personas que pueden adquirir nuestro servicio.
+
+**Ejemplo 1.**
+
+**Aplicación web para agendar nuestro horario:**
+
+Estudiante masculino o femenino entre 13 a 28 años; viven en una ciudad capital; poseen una conexión a internet al igual que un dispositivo para acceder a la red; viven en una ciudad capital, estudiante de secundaria a posgrado; soltero/a o con pareja; le gusta tener organizado sus deberes; le parece más cómodo aplicaciones; la mayor parte de tiempo donde se entera de cosas es a través de las redes sociales.
+
+De este modo ya estaríamos definiendo un público objetivo, aquel grupo de personas que le sea útil y atractivo esa aplicación web. Entonces yo sé por medio de redes sociales podré llegar a ese tipo de población y por ende debería de obtener un cierto beneficio al enfocarme en ello.
+
+### **Consideraciones a tener para detectar un público objetivo**
