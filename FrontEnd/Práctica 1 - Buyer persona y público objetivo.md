@@ -100,3 +100,25 @@ Estudiante masculino o femenino entre 13 a 28 años; viven en una ciudad capital
 De este modo ya estaríamos definiendo un público objetivo, aquel grupo de personas que le sea útil y atractivo esa aplicación web. Entonces yo sé por medio de redes sociales podré llegar a ese tipo de población y por ende debería de obtener un cierto beneficio al enfocarme en ello.
 
 ### **Consideraciones a tener para detectar un público objetivo**
+* Investigar el mércado
+Esto es con el fin de saber quiénes buscan una solución que nosotros ofrecemos, y también conocer la competencia de modo que algún fallo que tenga ellos pudiera ser una mejora con nosotros. 
+
+Una estrategía a tomar sería revisar el segmento que ya otras organizacioes o empresas han hecho para poder tener más información del público que nos queremos dirigir.
+
+* Delimitar el público
+Esto es algo obvio a tomar en cuenta, debido a que no es posible tan solo crear una aplicación que use todo el mundo debido que a la cantidad de consideraciones a tomar es enorme suena algo no razonable tratar de abarcar todos los gustos debido a que principalmente no todo el mundo usa internet. Es mejor enfocarse a un sector bien definido y que tenga más probabilidad de usar nuestro servicio.
+
+La forma de delimitar esto sería por medio de la edad, nivel social, escolaridad, problematica, etc.
+
+* Uso de Google Trends 
+<a href="https://trends.google.es/trends/?geo=MX" target="blank">GoogleTrends</a> es funcional para identficar lo que está en trending con respecto a un tema, entonces es posible usar esto para buscar un tema y ver que es lo que se busca más acerca de una palabra clave, por ejemplo al buscar _agenda_ es posible ver que se busca sobre agenda 2022 haciendo referencia que las personas que buscan agendar su vida personal probablemente busque una para el año 2022.
+
+### **Segmentación psicográfica**
+
+
+## **Viendo el ejemplo de Abogabot**
+
+
+## **Fuentes de referencia**
+1. https://blog.hotmart.com/es/publico-objetivo/
+2. 
