@@ -35,3 +35,37 @@ En este momento se me ocurre la sigueinte información podría estar dentro de l
 
 Todo esto podría contener nuestro wireframe de la página principal para poder hacer que el cliente tenga la mayor información posible del servicio dado para posteriormente rellenar el formulario.
 
+No obstante, al pensar todo esto dentro de una sola página, o sea en la principal, se nota que habrá mucha información y puede ser saturado. Por lo cual, lo que se deberá de considerar es poner esa información en diferentes páginas que deriven de la página principal. De forma que será posible optimizar la información mostrada en la página principal provocando que que la información restante quede en otras páginas que se puedan acceder desde la principal.
+
+Entonces, haciendo una discriminación de información podría ser:
+
+1. Información sobre el despacho (muy breve y con un read more).
+2. Ubicación física.
+3. Documentar la demanda (formulario).
+4. Contacto y Aviso de privacidad (pié de página).
+
+Bien podríamos mostrar esta información en la página principal, mientras que la información restante estará en otras páginas, y esto mismo podría realizarse usando NavBar la cual fue vista en la introducción. Actualmente se tiene lo siguiente:
+![MVC](https://github.com/FredinVazquez/LaunchX--Notas/blob/main/FrontEnd/Imagenes/1.png)
+
+## **Home page**
+Antes de iniciar, algo que debemos tener presente es que en páginas sobre instituciones o donde sea necesario una comunicación se suele poner información de contacto al pie de la página.
+![MVC](https://github.com/FredinVazquez/LaunchX--Notas/blob/main/FrontEnd/Imagenes/2.png)
+
+Este es un ejemplo de la página de una univerdad, de modo que podríamos imitar lo mismo que las páginas de nuestra página web.
+
+Lo primero a realizar será lo que se verá al principio, en este caso lo que se me ocurre es que en el inicio en la parte derecha se tenga una sepación, como un apartado, en donde se tenga el nombre de la página, su logo y su lema, para abajo de ello se tenga el NavBar o una barra de búsqueda directamente.
+
+Esta debe ser una rápida presentación de cómo debe lucir el encabezado.
+
+
+Después de tener lo principal lo siguiente es presentar la información restante.
+
+Una cosa importante es etiquetar el contenido con el que hemos estado trabajando para entender mejor la idea plasmada en el wireframe 
+
+## **Contacto/Quiénes somos**
+
+## **Registrarse**
+
+## **Formulario**
+
+## **Status de Demanda**
