@@ -69,3 +69,33 @@ Una cosa importante es etiquetar el contenido con el que hemos estado trabajando
 ## **Formulario**
 
 ## **Status de Demanda**
+
+<h1><b>UI Design</b></h1>
+La elaboración de este paso será por medio de Figma, el cual es un software gratuito
+Los pasos a seguir son:
+
+<ul>
+  <li>Vamos a la sección de Drafts</li>
+  <li>En Drafts se colocará en el signo de '+'</li>
+  <li>Se dará click en "New file"</li>
+</ul>
+
+UJna vez dentro para iniciar será en la sección de "Frame" y una vez que coloquemos el ratón ahí se abrirá una sección para escoger con qué tamaño se trabajará. Aquí hay varios, desde tamaño para pantallas de teléfonos hasta diferentes monitores o incluso papel para trabajar. En este caso se hará uso de un tamaño de monitor el cual es simplemente llamado Desktop y se cambiará el ancho a 1980 debido a que este es el tamaño más común para pantallas de escritorios.
+
+El objetivo de esto es pasar lo realizado en el wireframe en un layout, ya en una idea un poco más sólida.
+
+Al parecer lo que normalmente se hace para el diseño de una aplicación es por medio de APIS, entonces lo que hace por ejemplo Bootstrap es utilizar un grid para poder tener una mejor referencia sobre dónde colocar los elementos de la página web. Esto mismo es lo que se hará
+
+Para poder realizar una mejor interpretación o plasmar ideas a la hora de colocar texto, se puede usar la página <a href="https://es.lipsum.com/" target="blank">Lorem Ipsum</a> el cual es el texto que se usa habitualmente en diseño gráfico en demostraciones de tipografías o de borradores de diseño para probar el diseño visual antes de insertar el texto final. Esta página ayuda a generar dicho texto. 
+
+Shortscut
+<ul>
+  <li>Ctrl+G .......... Agrupar</li>
+  <li>Shift+arrow  .... Moverse pixel por pixel</li>
+</ul>
+
+Notas
+<ul>
+  <li>Es posible el uso de icónos como los que provee Font Awesome, tan solo descargarlo como SVG</li>
+  <li>Shift+arrow  .... Moverse pixel por pixel</li>
+</ul>
