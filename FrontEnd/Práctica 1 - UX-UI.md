@@ -88,7 +88,7 @@ Al parecer lo que normalmente se hace para el diseño de una aplicación es por 
 
 Para poder realizar una mejor interpretación o plasmar ideas a la hora de colocar texto, se puede usar la página <a href="https://es.lipsum.com/" target="blank">Lorem Ipsum</a> el cual es el texto que se usa habitualmente en diseño gráfico en demostraciones de tipografías o de borradores de diseño para probar el diseño visual antes de insertar el texto final. Esta página ayuda a generar dicho texto. 
 
-Shortscut
+Shortcuts
 <ul>
   <li>Ctrl+G .......... Agrupar</li>
   <li>Shift+arrow  .... Moverse pixel por pixel</li>
@@ -97,5 +97,6 @@ Shortscut
 Notas
 <ul>
   <li>Es posible el uso de icónos como los que provee Font Awesome, tan solo descargarlo como SVG</li>
-  <li>Shift+arrow  .... Moverse pixel por pixel</li>
+  <li>Es recomendable ir haciendo agrupaciones para ir separando distintas partes de la página, tal como se hizo en el wireframe</li>
+  
 </ul>
